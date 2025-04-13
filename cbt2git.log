@@ -1,12 +1,12 @@
-2025-04-13 12:38:37.228420 - Received CBT.V508.FILE037.PDS from FILE037.XMI 
-2025-04-13 12:38:37.229140 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$$$#DATE
-2025-04-13 12:38:37.229214 - Found $$DOC.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$$DOC
-2025-04-13 12:38:37.229280 - Found $CBTJCL.jcl (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$CBTJCL
-2025-04-13 12:38:37.229358 - Found $MANUAL.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$MANUAL
-2025-04-13 12:38:37.229417 - Found $UCLAJCL.jcl (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$UCLAJCL
-2025-04-13 12:38:37.229473 - Found @FILE037.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/@FILE037
-2025-04-13 12:38:37.229638 - Found COPYCAT.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/COPYCAT
-2025-04-13 12:38:37.229697 - Found FIX1.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/FIX1
-2025-04-13 12:38:37.229752 - Found FIX2.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/FIX2
-2025-04-13 12:38:37.229806 - Found OAC1.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/OAC1
-2025-04-13 12:38:37.229869 - Found OAC2.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/OAC2
+2025-04-13 15:37:52.710164 - Received CBT.V508.FILE037.PDS from FILE037.XMI 
+2025-04-13 15:37:52.711067 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$$$#DATE
+2025-04-13 15:37:52.711570 - Found $$DOC.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$$DOC
+2025-04-13 15:37:52.711869 - Found $CBTJCL.jcl (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$CBTJCL
+2025-04-13 15:37:52.712236 - Found $MANUAL.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$MANUAL
+2025-04-13 15:37:52.712412 - Found $UCLAJCL.jcl (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/$UCLAJCL
+2025-04-13 15:37:52.712467 - Found @FILE037.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/@FILE037
+2025-04-13 15:37:52.713290 - Found COPYCAT.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/COPYCAT
+2025-04-13 15:37:52.713453 - Found FIX1.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/FIX1
+2025-04-13 15:37:52.713739 - Found FIX2.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/FIX2
+2025-04-13 15:37:52.714011 - Found OAC1.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/OAC1
+2025-04-13 15:37:52.714179 - Found OAC2.txt (text/plain) in CBT.V508.FILE037.PDS, moved to PDS/OAC2
